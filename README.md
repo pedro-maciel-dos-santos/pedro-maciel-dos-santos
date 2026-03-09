@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Pedro Maciel</h1>
 
-<!--
-**pedro-maciel-dos-santos/pedro-maciel-dos-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">FullStack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvedor Full Stack apaixonado por tecnologia.
+
+💻 Atualmente trabalhando com:
+
+- PHP
+- Laravel
+- JavaScript
+- TypeScript
+- Node.js
+- MySQL
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,mysql,bootstrap,html,css,git" />
+
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-maciel-dos-santos&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-maciel-dos-santos&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-maciel-dos-santos&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Sempre aprendendo novas tecnologias e construindo projetos.
