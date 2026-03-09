@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://pedro-eng-software.vercel.app/" target="_blank">
-  <img src="🌐%20Meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Acessar%20Meu%20Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white" height="40">
 </a>
 
 </div>
