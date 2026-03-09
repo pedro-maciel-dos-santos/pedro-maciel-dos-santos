@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Pedro Maciel</h1>
 
-<h3 align="center">FullStack Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Pedro+Maciel;FullStack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Construindo+Soluções+Web+🚀"/>
+</p>
 
 ---
 
