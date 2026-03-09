@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,,mysql,bootstrap,html,css,git" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,bootstrap,html,css,git" />
 
 </p>
 
