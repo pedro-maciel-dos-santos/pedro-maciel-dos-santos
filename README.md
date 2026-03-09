@@ -11,8 +11,6 @@
 - PHP
 - Laravel
 - JavaScript
-- TypeScript
-- Node.js
 - MySQL
 
 ---
@@ -21,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,mysql,bootstrap,html,css,git" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,,mysql,bootstrap,html,css,git" />
 
 </p>
 
@@ -53,11 +51,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/pedro-maciel-dos-santos-405359303">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:pe.maciel.santos@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
