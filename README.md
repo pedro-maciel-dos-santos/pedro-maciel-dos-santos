@@ -35,6 +35,12 @@
 
 </p>
 ---
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -65,6 +71,8 @@
 
 
 </div>
+
+###
 ---
 
 ## 🌎 Conecte-se comigo
