@@ -4,8 +4,9 @@
 
 ---
 
-<a href="https://pedro-eng-software.vercel.app/" target="_blank">
 <h1>🌐 Meu Portfólio</h1>
+<a href="https://pedro-eng-software.vercel.app/" target="_blank">
+  🔗
 </a>
 
 ---
