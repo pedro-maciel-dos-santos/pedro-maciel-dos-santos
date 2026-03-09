@@ -29,9 +29,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedro-maciel-dos-santos&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-maciel-dos-santos&show_icons=true&theme=radical&cache_seconds=1800">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-maciel-dos-santos&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-maciel-dos-santos&layout=compact&theme=radical&cache_seconds=1800">
 
 </p>
 
