@@ -4,14 +4,45 @@
 
 ---
 
-🚀 Desenvolvedor Full Stack apaixonado por tecnologia.
+<img align="right" height="160" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
-💻 Atualmente trabalhando com:
+## 🌐 Meu Portfólio
 
-- PHP
-- Laravel
-- JavaScript
-- MySQL
+🔗 https://pedro-eng-software.vercel.app/
+
+---
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="120" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif"/>
+<img width="40"/>
+<img height="120" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"/>
+
+</div>
 
 ---
 
